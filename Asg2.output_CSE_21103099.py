@@ -1,8 +1,8 @@
 # ***Q1***
-<A>THE LENGTH OF STRING IS 35
-<B>THE REVERSED STRING IS  egaugnal evitisnes esac a si nohtyP
-<E>THE INDEX OF SUBSTRING a is  10
-<F>THE ORIGINAL STRING AFTER REMOVING WHITESPACES IS Pythonisacasesensitivelanguage
+<A> The Length Of The String Is: 35
+<B> The Reversed String Is:  egaugnal evitisnes esac a si nohtyP
+<E> The Index Of Substring 'a' Is:  10
+<F> The Original String After Removing Whitespace Is: Pythonisacasesensitivelanguage
 
 # ***Q2***
 Enter Your Name: Pratham Bansal
